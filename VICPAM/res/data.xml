@@ -1,0 +1,37 @@
+<entries>
+<totalduration>3675000</totalduration>	
+<entry>
+	<entryID>1</entryID>
+	<user>Susan</user>
+	<application>res/eclipse.gif</application>
+	<activity>show</activity>
+	<device>shared display</device>
+	<time>
+		<start>11:22:10 am</start>
+		<end>11:29:20 am</end>
+	</time>
+</entry>
+<entry>
+	<entryID>2</entryID>
+	<user>Steven</user>
+	<application>res/eclipse.gif</application>
+	<activity>replication</activity>
+	<fromentryID>1</fromentryID>
+	<device>personal</device>
+	<time>
+		<start>11:23:11 am</start>
+		<end>11:27:31 am</end>
+	</time>
+</entry>
+<entry>
+	<entryID>3</entryID>
+	<user>John</user>
+	<application>res/firefox.gif</application>
+	<activity>share</activity>
+	<device>personal</device>
+	<time>
+		<start>11:24:32 am</start>
+		<end>11:26:33 am</end>
+	</time>
+</entry>
+</entries>
